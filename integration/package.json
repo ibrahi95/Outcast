@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@idosgames/core": "^0.21.5",
+    "@idosgames/wallet": "^0.6.4",
+    "esbuild": "^0.25.12"
+  }
+}
