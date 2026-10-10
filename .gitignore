@@ -1,0 +1,12 @@
+.claude/
+integration/node_modules/
+integration/core/
+integration/wallet/
+integration/*.tgz
+node_modules/
+.env
+.env.*
+!.env.example
+*.zip
+outcast-renamed.jpg
+.github-export/
